@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /dticker_dt.html/
+Allow: /
+Disallow: /noticias08/

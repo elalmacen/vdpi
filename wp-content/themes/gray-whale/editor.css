@@ -1,0 +1,13 @@
+@import url( 'style.css' );
+
+html,
+body,
+#page {
+	background-color: #fff;
+}
+html .mceContentBody {
+	margin: 9px 18px 0;
+}
+body {
+	padding: 9px 18px 0;
+}
